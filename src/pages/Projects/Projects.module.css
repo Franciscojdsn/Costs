@@ -1,5 +1,5 @@
 .container {
-    width: 1200px;
+    width: 80vw;
     margin: 0 auto;
 }
 
@@ -8,10 +8,18 @@
 }
 
 .start {
-    justify-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
 }
 
 .column {
     flex-direction: column;
     justify-content: flex-start;
+}
+
+.title {
+    display:flex;
+    justify-content: space-between;
+    padding: 2em;
 }
