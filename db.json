@@ -2,22 +2,22 @@
   "projects": [
     {
       "id": "2d1e",
-      "name": "Francisco ",
-      "budget": "456123",
+      "name": "Francisco João",
+      "budget": "50000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
     },
     {
       "id": "0a9e",
-      "name": "Adoleta",
+      "name": "Projeto",
       "budget": "85000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []

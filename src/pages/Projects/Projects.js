@@ -35,6 +35,8 @@ export default function Projetos() {
     }, [])  
 
     function removeProject (id) {
+        setProjectMessage('')
+        
         fetch(`http://localhost:5000/projects/${id}`, {
         method: 'DELETE',
         headers: {
